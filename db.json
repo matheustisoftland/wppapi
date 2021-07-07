@@ -1,0 +1,246 @@
+{
+     "talkipc": [
+     {
+        "id": 1,
+        "numero": "",
+        "texto": "",
+        "banner": "",
+        "avatar": ""
+      }
+    ],
+     
+     "talkipr": [
+     {
+        "id": 1,
+        "numero": "",
+        "campanha": "",
+        "status": "",
+        "resposta": ""
+      }
+    ],
+     
+     "talkipu": [
+     {
+        "id": 1,
+        "numero": "",
+        "Mensagem": "",
+        "logo": "",
+        "banner": "",
+        "arquivo": "",
+        "nfile": ""
+      }
+    ],
+     
+     "thiagoc": [
+     {
+        "id": 1,
+        "numero": "",
+        "texto": "",
+        "banner": "",
+        "avatar": ""
+      }
+    ],
+     
+     "thiagor": [
+     {
+        "id": 1,
+        "numero": "",
+        "campanha": "",
+        "status": "",
+        "resposta": ""
+      }
+     ],
+     
+    "lisianec": [
+     {
+        "id": 1,
+        "numero": "",
+        "texto": "",
+        "banner": "",
+        "avatar": ""
+      }
+    ],
+     
+    "lisianecr": [
+     {
+        "id": 1,
+        "numero": "",
+        "campanha": "",
+        "status": "",
+        "resposta": ""
+      }
+    ],
+     "andrewstelecomc": [
+     {
+        "id": 1,
+        "numero": "",
+        "texto": "",
+        "banner": "",
+        "avatar": ""
+      }
+    ],
+       "andrewstelecomr": [
+     {
+        "id": 1,
+        "numero": "",
+        "campanha": "",
+        "status": "",
+        "resposta": ""
+      }
+    ],
+      "danielc": [
+     {
+        "id": 1,
+        "numero": "",
+        "texto": "",
+        "banner": "",
+        "avatar": ""
+      }
+    ],
+       "danielr": [
+     {
+        "id": 1,
+        "numero": "",
+        "campanha": "",
+        "status": "",
+        "resposta": ""
+      }
+    ],
+       "thalesc": [
+     {
+        "id": 1,
+        "numero": "",
+        "texto": "",
+        "banner": "",
+        "avatar": ""
+      }
+    ],
+       "thalesr": [
+     {
+        "id": 1,
+        "numero": "",
+        "campanha": "",
+        "status": "",
+        "resposta": ""
+      }
+    ],
+     
+     "meregetechc": [
+     {
+        "id": 1,
+        "numero": "",
+        "texto": "",
+        "banner": "",
+        "avatar": ""
+      }
+    ],
+       "meregetechr": [
+     {
+        "id": 1,
+        "numero": "",
+        "campanha": "",
+        "status": "",
+        "resposta": ""
+      }
+      ],
+     
+             "meregetecht": [
+     {
+        "id": 1,
+        "numero": "",
+        "campanha": "",
+        "status": "",
+        "resposta": ""
+      }
+    ],
+     "raniere.santosc": [
+     {
+        "id": 1,
+        "numero": "",
+        "texto": "",
+        "banner": "",
+        "avatar": ""
+      }
+    ],
+       "raniere.santosr": [
+     {
+        "id": 1,
+        "numero": "",
+        "campanha": "",
+        "status": "",
+        "resposta": ""
+      }
+    ],
+      "ricardoc": [
+     {
+        "id": 1,
+        "numero": "",
+        "texto": "",
+        "banner": "",
+        "avatar": ""
+      }
+    ],
+       "ricardor": [
+     {
+        "id": 1,
+        "numero": "",
+        "campanha": "",
+        "status": "",
+        "resposta": ""
+      }
+    ],
+      "intermediumenterprisec": [
+     {
+        "id": 1,
+        "numero": "",
+        "texto": "",
+        "banner": "",
+        "avatar": ""
+      }
+    ],
+       "intermediumenterpriser": [
+     {
+        "id": 1,
+        "numero": "",
+        "campanha": "",
+        "status": "",
+        "resposta": ""
+      }
+    ],
+      "andersonmarinc": [
+     {
+        "id": 1,
+        "numero": "",
+        "texto": "",
+        "banner": "",
+        "avatar": ""
+      }
+    ],
+       "andersonmarinr": [
+     {
+        "id": 1,
+        "numero": "",
+        "campanha": "",
+        "status": "",
+        "resposta": ""
+      }
+    ],
+      "liderconnectc": [
+     {
+        "id": 1,
+        "numero": "",
+        "texto": "",
+        "banner": "",
+        "avatar": ""
+      }
+    ],
+       "liderconnectr": [
+     {
+        "id": 1,
+        "numero": "",
+        "campanha": "",
+        "status": "",
+        "resposta": ""
+      }
+    ]
+}
